@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "307996f4773fe82e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6620ea39e64dced1",
+        "type": "leaf",
+        "dimension": 49.714828897338414,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DSA Log.md",
+            "mode": "source"
+          }
+        },
+        "group": "ced43ac0b90627c3"
+      },
+      {
+        "id": "4a3d5c9563ea3bba",
+        "type": "leaf",
+        "dimension": 50.285171102661586,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DSA Log.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ced43ac0b90627c3"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "813a6ad051da0956",
+    "type": "split",
+    "children": [
+      {
+        "id": "496154fab77701db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a12a9a4c5afa1bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "369c658d446f1a9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189
+  },
+  "right": {
+    "id": "aa982d68259f54a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd3014d190e7de76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e54f9bb19af16a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSA Log.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6620ea39e64dced1",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Photoshop/Daily Learning Log.md",
+    "Photoshop/Untitled.md",
+    "Conduit/Concepts/JWT/JWT.md",
+    "PostgreSQL/Queries.md",
+    "PostgreSQL/Untitled.md",
+    "Systems Programming/Ch 2 - Programming Background.md",
+    "KnockOut/Getting Started.md",
+    "OOP/OO Analysis and Design and UML.md",
+    "Systems Programming/Untitled.md"
+  ]
+}
